@@ -32,7 +32,7 @@ you can watch a full demonstration of the application [here](https://watch.scree
 
 ## usage
 this application requires node.js, express.js, and sequelize. <br>
-first, gitclone the repo from github. cd into application and run ```mysql -u root``` then source the db/schema.sql and quit out of mysql. run ```npm run seed```, and then run ```npm start```.
+first, gitclone the repo from github. cd into application and run ```mysql -u root``` then source the db/schema.sql and quit out of mysql. run ```npm run seed```, and finally run ```npm start```.
 
 
   
